@@ -1,0 +1,23 @@
+.text_images_and_result{
+    background-color: pink;
+    padding: 10px;
+    margin: 15px;
+    border: 3px solid white;
+    box-shadow: 5px 5px 18px white;
+    height: 400px;
+    width: 450px;
+    border-radius: 30px;
+    
+}
+
+body{
+    background-color: skyblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+img{
+    height: 200px;
+    width: 250px;
+    
+}
